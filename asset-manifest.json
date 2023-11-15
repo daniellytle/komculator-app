@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/komculator-app/static/css/main.a02b9ddf.css",
-    "main.js": "/komculator-app/static/js/main.49928789.js",
+    "main.css": "/komculator-app/static/css/main.8543e03b.css",
+    "main.js": "/komculator-app/static/js/main.1c38c502.js",
     "static/js/787.da460a2e.chunk.js": "/komculator-app/static/js/787.da460a2e.chunk.js",
     "index.html": "/komculator-app/index.html",
-    "main.a02b9ddf.css.map": "/komculator-app/static/css/main.a02b9ddf.css.map",
-    "main.49928789.js.map": "/komculator-app/static/js/main.49928789.js.map",
+    "main.8543e03b.css.map": "/komculator-app/static/css/main.8543e03b.css.map",
+    "main.1c38c502.js.map": "/komculator-app/static/js/main.1c38c502.js.map",
     "787.da460a2e.chunk.js.map": "/komculator-app/static/js/787.da460a2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a02b9ddf.css",
-    "static/js/main.49928789.js"
+    "static/css/main.8543e03b.css",
+    "static/js/main.1c38c502.js"
   ]
 }
